@@ -26,10 +26,7 @@ function rot13(str) {
         'X' : 'K',
         'Y' : "L",
         'Z' : 'M',
-        " " : " ",
-        "!" : "!",
-        "@" : "@",
-        "?" : "?"
+
     }
 
     str = str.toUpperCase();
